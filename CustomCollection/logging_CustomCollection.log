@@ -1,0 +1,36 @@
+2020-03-09 21:54:21 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:54:21 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:54:21 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:54:21 ERROR customcollection.TestLists :46 - No errors in using the custom list
+2020-03-09 21:54:44 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:54:44 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:54:44 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:54:44 ERROR customcollection.TestLists :46 - No errors in using the custom list
+2020-03-09 21:56:01 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:56:01 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:56:01 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:56:01 ERROR customcollection.TestLists :46 - No errors in using the custom list
+2020-03-09 21:57:01 INFO  customcollection.TestLists :24 - Items added and removed successfully
+2020-03-09 21:57:01 DEBUG customcollection.TestLists :25 - [running,relay,long jump,cycling,throw ball,cricket,hockey,baseball,tennis]
+2020-03-09 21:57:01 WARN  customcollection.TestLists :26 - No warnings in using the custom list
+2020-03-09 21:57:01 ERROR customcollection.TestLists :27 - No errors in using the custom list
+2020-03-09 21:57:01 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:57:01 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:57:01 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:57:01 ERROR customcollection.TestLists :46 - No errors in using the custom list
+2020-03-09 21:57:27 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:57:27 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:57:27 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:57:27 ERROR customcollection.TestLists :46 - No errors in using the custom list
+2020-03-09 21:57:45 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:57:45 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:57:45 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:57:45 ERROR customcollection.TestLists :46 - No errors in using the custom list
+2020-03-09 21:57:59 INFO  customcollection.TestLists :24 - Items added and removed successfully
+2020-03-09 21:57:59 DEBUG customcollection.TestLists :25 - [running,relay,long jump,cycling,throw ball,cricket,hockey,baseball,tennis]
+2020-03-09 21:57:59 WARN  customcollection.TestLists :26 - No warnings in using the custom list
+2020-03-09 21:57:59 ERROR customcollection.TestLists :27 - No errors in using the custom list
+2020-03-09 21:57:59 INFO  customcollection.TestLists :43 - Items added and removed successfully
+2020-03-09 21:57:59 DEBUG customcollection.TestLists :44 - [Diwali,Dusshera,Sankranthi,Moharam,Ramzan,Christmas]
+2020-03-09 21:57:59 WARN  customcollection.TestLists :45 - No warnings in using the custom list
+2020-03-09 21:57:59 ERROR customcollection.TestLists :46 - No errors in using the custom list
